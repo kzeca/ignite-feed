@@ -1,0 +1,43 @@
+{
+    "posts" : [
+        {
+          "id": 1,
+          "author": {
+            "avatarUrl": "https://github.com/kzeca.png",
+            "name": "José Carlos",
+            "role": "CEO at 4Ever Bits"
+          },
+          "content": [
+            { "type": "paragraph", "content": "I'm just a poor wayfaring stranger" },
+            { "type": "paragraph", "content": "While traveling thru this world below" },
+            { "type": "link", "content": "4everbits.com" }
+          ],
+          "published": "09/24/2022 07:30:14"
+        },
+        {
+          "id": 2,
+          "author": {
+            "avatarUrl": "https://github.com/pedroaraujo1952.png",
+            "name": "Pedro Henrique",
+            "role": "CTO 4Ever Bits"
+          },
+          "content": [
+            { "type": "paragraph", "content": "There's no sickness, no toil, nor danger" },
+            { "type": "paragraph", "content": "In that bright land to which I go" },
+            { "type": "link", "content": "4everbits.com" }
+          ],
+          "published": "09/20/2022 07:30:14"
+        }
+      ],
+      "comments": [
+        {
+          "id": 1,
+          "content": "Gostei do que vi",
+          "author": {
+            "avatarUrl": "https://github.com/kzeca.png",
+            "name": "José Carlos",
+            "role": "CEO at 4Ever Bits"
+          }
+        }
+      ]
+}
